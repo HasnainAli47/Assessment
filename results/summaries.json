@@ -1,0 +1,66 @@
+[
+  {
+    "article_id": "covid",
+    "summary": "The World Health Organization (WHO) released updated data on COVID-19 vaccine efficacy in January 2024. mRNA vaccines demonstrated 89.3% efficacy against severe illness in adults aged 18\u201365, according to a study involving 2.4 million participants across 42 countries over a 12-month period. Booster doses increased protection by 15% in individuals over 65 years old. Efficacy against the JN.1 subvariant decreased to 62.7%. Pfizer and Moderna\u2019s bivalent formulations showed a 78% reduction in hospitalization rates during the winter surge. Side effects remained consistent, with 34% reporting mild fatigue and 21% experiencing injection-site soreness.  Approximately 0.5% experienced serious adverse events. Funding for COVAX reached $4.2 billion in 2024, a 12% increase. Health authorities in the United States, United Kingdom, and Japan have recommended annual boosters.",
+    "word_count": 123,
+    "target_range": "66-110",
+    "retries": 2,
+    "fkgl": 11.6,
+    "fre": 28.72,
+    "entity_coverage": 0.697,
+    "missing_numbers": true,
+    "hallucination_flag": true,
+    "hallucinated_entities": [
+      "approximately 0.5%"
+    ],
+    "risk_level": "High",
+    "escalate": true
+  },
+  {
+    "article_id": "diabetes",
+    "summary": "Researchers at Johns Hopkins University published findings in The Lancet detailing a combination therapy of semaglutide and metformin for Type 2 diabetes management. The randomized controlled trial involving 1,850 patients across North America and Europe demonstrated an average HbA1c reduction of 2.1% over 24 weeks. According to the study, 73% of participants achieved HbA1c levels below 7%, compared to 41% in the metformin-only group. A mean weight reduction of 6.8 kg was observed. Novo Nordisk funded 60% of the trial, with NIH providing the remaining support. Adverse events included gastrointestinal issues in 28% of participants, with 4.2% discontinuing treatment due to nausea. Serious adverse events were reported in 1.3% of cases. The American Diabetes Association noted that early combination therapy could prevent progression to insulin dependence in an estimated 35% of newly diagnosed patients.",
+    "word_count": 134,
+    "target_range": "67-112",
+    "retries": 2,
+    "fkgl": 11.75,
+    "fre": 30.72,
+    "entity_coverage": 0.6154,
+    "missing_numbers": true,
+    "hallucination_flag": false,
+    "hallucinated_entities": [],
+    "risk_level": "High",
+    "escalate": true
+  },
+  {
+    "article_id": "mental_health",
+    "summary": "A National Institute of Mental Health (NIMH) report detailed a significant rise in anxiety and depression among adults aged 18\u201325 from 2019 to 2023, with rates increasing by 47%. The study, utilizing data from 125,000 respondents, revealed that 32.5% of young adults experienced symptoms of major depressive disorder. According to the study, pandemic-related factors, economic uncertainty, and social media overuse contributed to this surge. Individuals spending over 4 hours daily on social media were 2.3 times more likely to report severe anxiety. Hispanic and Black young adults experienced 28% higher rates of untreated mental illness compared to white adults. Federal funding for mental health services reached $9.7 billion in 2024, and the 988 Lifeline handled 5.4 million contacts in 2023. Telehealth accounts for 38% of consultations, though a shortage of approximately 45,000 mental health professionals with average wait times of 48 days exists.",
+    "word_count": 143,
+    "target_range": "70-117",
+    "retries": 2,
+    "fkgl": 10.93,
+    "fre": 39.82,
+    "entity_coverage": 0.4,
+    "missing_numbers": true,
+    "hallucination_flag": true,
+    "hallucinated_entities": [
+      "2019 to 2023"
+    ],
+    "risk_level": "High",
+    "escalate": true
+  },
+  {
+    "article_id": "one_health_artical",
+    "summary": "Antimicrobial resistance (AMR) is a critical global health issue, contributing to an estimated 7.7 million deaths annually, with 4.95 million attributed to infections caused by antibiotic-resistant bacteria. A new Lancet series suggests that preventive measures could reduce deaths due to AMR in low- and middle-income countries (LMICs) by 18 percent, representing approximately 750,000 annual deaths. The series, led by Dr. Ramanan Laxminarayan, advocates for a multifaceted approach encompassing infection prevention, ensuring access to effective antibiotics, and investing in innovation.\n\nKey strategies include widespread vaccination, improvements in water, sanitation, and hygiene (WASH) standards, and robust infection control measures. Access to affordable antibiotics, including first- and second-line treatments, is crucial. Investment in new antibiotics, vaccines, and diagnostic tools is also recommended. The authors propose global targets for 2030, including a 10 percent reduction in AMR mortality, a 20 percent reduction in inappropriate human antibiotic use, and a 30 percent reduction in inappropriate animal antibiotic use. \n\nThe series highlights the need for political will, targets, accountability frameworks, and funding to address AMR. A 2024 United Nations General Assembly (UNGA) High-Level Meeting on AMR is seen as a critical opportunity to set ambitious goals. Current funding for AMR research and development lags behind other diseases, with most investment focused on R&D costs rather than mitigation strategies. Establishing an Independent Panel on Antimicrobial Access and Resistance is suggested to ensure accountability and drive action.",
+    "word_count": 229,
+    "target_range": "176-200",
+    "retries": 2,
+    "fkgl": 15.42,
+    "fre": 13.64,
+    "entity_coverage": 0.6429,
+    "missing_numbers": true,
+    "hallucination_flag": false,
+    "hallucinated_entities": [],
+    "risk_level": "High",
+    "escalate": true
+  }
+]

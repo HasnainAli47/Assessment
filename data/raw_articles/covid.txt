@@ -1,0 +1,11 @@
+COVID-19 Vaccine Efficacy Update — 2024
+
+The World Health Organization (WHO) released updated data on COVID-19 vaccine efficacy across multiple regions. According to the report published in January 2024, mRNA-based vaccines demonstrated 89.3% efficacy against severe illness in adults aged 18–65. The study, conducted across 42 countries, involved approximately 2.4 million participants over a 12-month observation period.
+
+Dr. Maria Chen, the lead epidemiologist at the CDC's Division of Viral Diseases in Atlanta, noted that booster doses improved protection by an additional 15% in individuals over 65 years old. However, efficacy against the JN.1 subvariant dropped to 62.7%, raising concerns among public health officials.
+
+Pfizer and Moderna reported that updated bivalent formulations targeting XBB.1.5 and JN.1 showed a 78% reduction in hospitalization rates during the winter surge. The European Medicines Agency (EMA) approved these formulations in December 2023.
+
+Side effects remained consistent with prior observations: 34% of recipients experienced mild fatigue, 21% reported injection-site soreness, and less than 0.5% experienced serious adverse events. The WHO emphasized that the benefits of vaccination continue to outweigh risks, particularly for immunocompromised populations and individuals over 60.
+
+Health authorities in the United States, United Kingdom, and Japan have recommended annual COVID-19 boosters, similar to influenza vaccination schedules. Funding for global vaccine distribution through COVAX reached $4.2 billion in 2024, a 12% increase from the previous year.

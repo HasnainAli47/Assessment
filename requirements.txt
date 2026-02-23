@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+requests
+spacy
+scispacy
+textstat
+pandas
+numpy
+regex
+rouge-score
+detoxify
+tqdm
+pytest

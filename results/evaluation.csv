@@ -1,0 +1,5 @@
+article_id,word_count,target_range,fkgl,fre,entity_coverage,missing_numbers,hallucination_flag,risk_level,escalate
+covid,123,66-110,11.6,28.72,0.697,True,True,High,True
+diabetes,134,67-112,11.75,30.72,0.6154,True,False,High,True
+mental_health,143,70-117,10.93,39.82,0.4,True,True,High,True
+one_health_artical,229,176-200,15.42,13.64,0.6429,True,False,High,True
